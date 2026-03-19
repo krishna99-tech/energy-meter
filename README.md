@@ -9,7 +9,7 @@ The ESP32 firmware (main.ino) is responsible for connecting to Wi-Fi, communicat
 On the server side, a Python application (app.py) listens for incoming UDP data packets. Once received, the data is processed and displayed on a web-based dashboard for real-time monitoring.
 
 To run this project, first clone the repository using:
-git clone <your-repo-url>
+git clone https://github.com/krishna99-tech/energy-meter.git
 cd <repo-folder>
 
 Then install the required Python dependencies:
